@@ -20,6 +20,8 @@
     "@angular/platform-browser-dynamic": "^13.3.5",
     "@angular/router": "^13.3.5",
     "@aurodesignsystem/auro-menu": "^3.5.0",
+    "@phtnalaska/alaska-input": "^0.4.0",
+    "@phtnalaska/alaska-radio": "^0.2.0",
     "@webcomponents/webcomponentsjs": "^2.4.4",
     "rxjs": "~6.6.7",
     "tslib": "^1.13.0",
