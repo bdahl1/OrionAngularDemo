@@ -5,6 +5,8 @@
 @import "~@alaskaairux/webcorestylesheets/dist/normalize";
 @import "~@alaskaairux/webcorestylesheets/dist/essentials";
 @import "~@alaskaairux/webcorestylesheets/dist/utilityClasses";
+@import "~@phtnalaska/design-tokens/dist/tokens/SCSSVariables";
+@import "~@phtnalaska/design-tokens/dist/tokens/SassCustomProperties";
 
 $asset-font-circular-dir: 'https://resource.alaskaair.net/stylesheets/circular/';
 

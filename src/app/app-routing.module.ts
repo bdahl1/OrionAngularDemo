@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { CheckboxDemoComponent } from './checkbox-demo/checkbox-demo.component';
+import { ComplexFormNewComponent } from './complex-form-new/complex-form-new.component';
 import { ComplexFormComponent } from './complex-form/complex-form.component';
 import { SimpleButtonDemoComponent } from './simple-button-demo/simple-button-demo.component';
 import { StartInfoComponent } from './start-info/start-info.component';
@@ -17,6 +18,10 @@ const routes: Routes = [
   {
     path: 'complex-form',
     component: ComplexFormComponent
+  },
+  {
+    path: 'complex-form-new',
+    component: ComplexFormNewComponent
   },
   {
     path: 'checkbox-demo',

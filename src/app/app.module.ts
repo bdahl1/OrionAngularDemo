@@ -10,6 +10,7 @@ import { ComplexFormComponent } from './complex-form/complex-form.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { CommonModule } from '@angular/common';
 import { CheckboxDemoComponent } from './checkbox-demo/checkbox-demo.component';
+import { ComplexFormNewComponent } from './complex-form-new/complex-form-new.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { CheckboxDemoComponent } from './checkbox-demo/checkbox-demo.component';
     NavContainerComponent,
     StartInfoComponent,
     ComplexFormComponent,
-    CheckboxDemoComponent
+    CheckboxDemoComponent,
+    ComplexFormNewComponent
   ],
   imports: [
     CommonModule,
